@@ -772,13 +772,13 @@ hr {
 	max-height: 600px;
 	float: left;
 	overflow: hidden;
-	padding-left:  10%;
+	padding: 1% 5% 10% 10%;
 
 }
 
 .myphoto {
 	border-radius: 0px;
-	box-shadow: 0px 5px 25px #ddd;
+	box-shadow: -7px 10px 27px #ddd;
 	max-width: 400px;
 
 
@@ -982,13 +982,14 @@ hr {
  	max-width: inherit;
  	max-height: 600px;
  	float: right;
- 	overflow: hidden;
-
+   overflow: hidden;
+   box-shadow: 0px 25px 35px #111;
+   padding: 0 2% 10% 10%;
  }
 
  .myphoto {
  	border-radius: 0px;
- 	box-shadow: 0px 5px 25px #ddd;
+ 	padding: 0 2% 10% 10%;
  	max-width: 400px;
 
 
