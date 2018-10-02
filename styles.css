@@ -983,14 +983,14 @@ hr {
  	max-height: 600px;
  	float: right;
    overflow: hidden;
-   box-shadow: 0px 25px 35px #111;
-   padding: 0 2% 10% 10%;
+   box-shadow: 0px 25px 35px #ddd;
+   padding: 0%;
  }
 
  .myphoto {
  	border-radius: 0px;
- 	padding: 0 2% 10% 10%;
- 	max-width: 400px;
+ 	/* padding: 0 2% 10% 10%; */
+ 	max-width: 500px;
 
 
 
