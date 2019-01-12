@@ -748,6 +748,13 @@ hr {
 
 }
 
+.bio-copy a {
+	color: #222;
+	font-weight: 400;
+	text-decoration: underline;
+}
+
+
 .social .contact {
 	display: block;
 	width: inherit;
